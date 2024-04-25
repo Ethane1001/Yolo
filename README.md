@@ -13,6 +13,8 @@ This Python script performs object detection using the YOLO (You Only Look Once)
 - Displays the annotated image using Matplotlib.
 - Prints the detected objects along with their class labels and confidence scores.
 
+  IMPORTANT- yolov3.weights is not within this, use this link to download. https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights
+
 ## Requirements
 
 - Python 3.x
